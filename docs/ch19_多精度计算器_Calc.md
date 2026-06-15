@@ -780,3 +780,10 @@ FREE(y);
 3. **Nystrom, R. (2021).** _Crafting Interpreters._ Chapter 6 (Parsing Expressions) 和 Chapter 17 (Compiling Expressions) — 分别用 Java 和 C 实现了 Pratt 解析的两种变体，是理解运算符优先级解析的最佳实践读物。
 4. **Hanson, D. R. (1997).** _C Interfaces and Implementations._ 第 2 章 (Arith)、第 17 章 (XP)、第 18 章 (AP)、第 19 章 (MP) — 原书中的四个算术相关章节，构成一条从可移植除法到多精度计算器的完整技术路线。
 5. **Hanson, D. R. (1996).** _A Retargetable C Compiler: Design and Implementation._ — David Hanson 与 Christopher Fraser 合著的 lcc 编译器，MP 接口的设计动机之一即为支持交叉编译器的常量折叠。
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch18_任意精度算术_MP.html">第18章 任意精度 MP</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch20_线程_Thread.html">第20章 线程 Thread</a></div>
+</div>

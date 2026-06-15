@@ -346,3 +346,10 @@ int main() {
     return 0;
 }
 ```
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch06_内存管理II_Arena.html">第6章 内存管理 II Arena</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch08_表_Table.html">第8章 表 Table</a></div>
+</div>

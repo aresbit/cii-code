@@ -887,3 +887,10 @@ MP 的 27 行 `mp.c` 文件仅包含一个 `memmove` shim (用于不支持该函
 ---
 
 *本章译自 *C Interfaces and Implementations* Chapters 18-19, 结合源代码 `/code/xp.h`, `/code/xp.c`, `/code/mp.h`, `/code/mp.c`, `/code/arith.h`, `/code/arith.c`, `/code/mpcalc.c` 综合分析。*
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch17_扩展精度算术_XP.html">第17章 扩展精度 XP</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch19_多精度计算器_Calc.html">第19章 多精度计算器 Calc</a></div>
+</div>

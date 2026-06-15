@@ -386,3 +386,10 @@ int main() {
     return 0;
 }
 ```
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch19_多精度计算器_Calc.html">第19章 多精度计算器 Calc</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch21_通道_Channel.html">第21章 通道 Channel</a></div>
+</div>

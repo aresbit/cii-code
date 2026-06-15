@@ -1197,3 +1197,10 @@ int LogRing_rotate(LogRing_T ring, int n) {
 > "ring" 指的是固定大小数组环形缓冲区，但理解 CII Ring 的设计仍然具有重要价值:
 > 它教会我们如何思考指针操作的正确性、对称性，以及如何在通用性和性能之间做出
 > 有意识的权衡。
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch11_序列_Seq.html">第11章 序列 Seq</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch13_位向量_Bit.html">第13章 位向量 Bit</a></div>
+</div>

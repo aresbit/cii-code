@@ -532,9 +532,14 @@ CII 不是一本关于C语言语法的书。它是一本关于**在C语言中用
 在接下来的章节中，我们将逐模块剖析这个体系。第2章从"接口与实现"的形式化定义开始，正式进入CII的世界。
 
 ---
-
-> **下一章**: [第2章 接口与实现 (Interfaces and Implementations)](ch02_接口与实现_Interfaces.md)
 >
 > **原书信息**: David R. Hanson, *C Interfaces and Implementations: Techniques for Creating Reusable Software*, Addison-Wesley Professional, 1997. ISBN: 0-201-49841-3.
 >
 > **代码库**: 本章代码对应 `code/double.c`，亦见原书第1章 pp. 1-14。
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch02_接口与实现_Interfaces.html">第2章 接口与实现</a></div>
+</div>

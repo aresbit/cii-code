@@ -1114,3 +1114,10 @@ CII 的 Channel 接口用 **40 行 C 代码 + 3 个信号量** 精确实现了 C
 - Herlihy, M. & Shavit, N. (2012). *The Art of Multiprocessor Programming*. 2nd ed. Morgan Kaufmann.
 - Go Team. `runtime/chan.go` — Go 语言标准库通道实现源码。
 - Rust Team. `std::sync::mpsc` — Rust 标准库多生产者单消费者通道。
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch20_线程_Thread.html">第20章 线程 Thread</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div></div>
+</div>

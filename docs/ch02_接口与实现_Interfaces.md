@@ -1039,3 +1039,10 @@ void Stack_free(T *stk) {
 ---
 
 > **译者注**：本章基于 David R. Hanson *C Interfaces and Implementations* (Addison-Wesley, 1997) 第 2 章内容，结合 `/home/ares/yyscode/cii-code/code/` 目录下的实际代码进行了详细的技术分析。所有代码示例均来源于该目录中 `atom.h`、`except.h`、`list.h`、`stack.h`、`table.h`、`bit.h`、`set.h`、`seq.h`、`ring.h`、`arena.h`、`arith.h`、`ap.h`、`xp.h`、`mem.h`、`text.h`、`str.h`、`fmt.h` 等头文件及其对应的 `.c` 实现文件。Modern-C 改进部分（2.6 节）是基于 C11/C17/C23 标准的原创分析，补充了原著未涉及的新特性。
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch01_引言_Introduction.html">第1章 引言</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch03_原子_Atoms.html">第3章 原子 Atoms</a></div>
+</div>

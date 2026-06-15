@@ -1105,3 +1105,10 @@ CII Table 的设计体现了以下核心原则:
 ---
 
 > 翻译与注释完成于 2026-06-15。源代码文件: `/home/ares/yyscode/cii-code/code/table.h`, `/home/ares/yyscode/cii-code/code/table.c`
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch07_链表_List.html">第7章 链表 List</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch09_集合_Set.html">第9章 集合 Set</a></div>
+</div>

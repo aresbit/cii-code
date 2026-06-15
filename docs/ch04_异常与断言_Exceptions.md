@@ -1157,3 +1157,10 @@ END_TRY;
 ---
 
 *本章基于《C Interfaces and Implementations》第4章原文及 `except.h` / `except.c` / `assert.h` / `assert.c` 完整源码逐行分析而成。所有宏展开均标注了每一行的设计意图与技术约束。Modern-C改进讨论基于作者对C11/C17标准的分析。*
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch03_原子_Atoms.html">第3章 原子 Atoms</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch05_内存管理I_Memory.html">第5章 内存管理 I</a></div>
+</div>

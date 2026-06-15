@@ -1089,3 +1089,10 @@ GCC和Clang通过`__attribute__((format(printf, ...)))`提供了编译期格式�
 > Clinger, William D. "How to Read Floating-Point Numbers Accurately." *Proceedings of the ACM SIGPLAN 1990 Conference on Programming Language Design and Implementation*, pp. 92-101.
 >
 > {fmt} library. https://github.com/fmtlib/fmt
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch13_位向量_Bit.html">第13章 位向量 Bit</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch15_低级字符串_Str.html">第15章 低级字符串 Str</a></div>
+</div>

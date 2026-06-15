@@ -886,3 +886,10 @@ Hanson 在 Further Reading 中指出的研究方向 -- 自动选择 arena (Barre
 - Boehm, H.-J. and Weiser, M. (1988). "Garbage Collection in an Uncooperative Environment." *Software -- Practice and Experience*, 18(9), 807-820.
 - Zig Standard Library: `std.heap.ArenaAllocator` -- https://ziglang.org/documentation/master/std/#std.heap.ArenaAllocator
 - `bumpalo` crate (Rust): https://crates.io/crates/bumpalo
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch05_内存管理I_Memory.html">第5章 内存管理 I</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch07_链表_List.html">第7章 链表 List</a></div>
+</div>

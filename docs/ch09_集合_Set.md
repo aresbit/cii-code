@@ -1073,3 +1073,10 @@ Set 接口是 CII 库中与 Table 最紧密相关的组件:
 ---
 
 *本章基于 David R. Hanson 的《C Interfaces and Implementations》第 9 章，结合 `set.h` / `set.c` 源代码精读分析及 Modern-C 优化建议编写。*
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch08_表_Table.html">第8章 表 Table</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch10_动态数组_Array.html">第10章 动态数组 Array</a></div>
+</div>

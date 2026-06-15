@@ -667,3 +667,10 @@ Atoms 模块以不到 120 行 C 代码实现了一个完整的字符串驻留系
 
 *原文: C Interfaces and Implementations, Chapter 3 "Atoms", David R. Hanson, Addison-Wesley, 1997.*
 *翻译与注释: 基于原书文本与 `cii-code/code/atom.{h,c}` 源代码逐行分析。*
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch02_接口与实现_Interfaces.html">第2章 接口与实现</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch04_异常与断言_Exceptions.html">第4章 异常与断言</a></div>
+</div>

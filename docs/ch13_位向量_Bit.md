@@ -738,3 +738,10 @@ CII的`Bit`模块示范了以下C程序设计技术：
 5. **现代硬件适配**: 硬件popcount、SIMD指令集、`restrict`关键字等现代C特性可以大幅提升性能
 
 位向量是所有C程序员工具箱中的基础数据抽象。对CII位向量实现的理解能帮助你洞悉标准库（`std::bitset`）、数据库位图索引、布隆过滤器、网络协议标志位等众多系统背后的共同原理。
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch12_环形缓冲区_Ring.html">第12章 环形缓冲区 Ring</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch14_格式化_Fmt.html">第14章 格式化 Fmt</a></div>
+</div>

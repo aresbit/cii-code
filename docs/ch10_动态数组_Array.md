@@ -653,3 +653,10 @@ Hanson 的动态数组实现只用约 80 行代码，但展示了多个超越代
 
 **参考文献：**
 - Hanson, David R. _C Interfaces and Implementations: Techniques for Creating Reusable Software_. Addison-Wesley, 1997. Chapter 10.
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch09_集合_Set.html">第9章 集合 Set</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch11_序列_Seq.html">第11章 序列 Seq</a></div>
+</div>

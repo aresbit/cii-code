@@ -1156,3 +1156,10 @@ Hanson的设计选择了 **清晰性 优于 性能**、**简洁性 优于 完备
 - Hennessy, J. L. and Patterson, D. A. (1994). *Computer Organization and Design: The Hardware/Software Interface*. Morgan Kaufmann, Chapter 4.
 - Knuth, D. E. (1981). *The Art of Computer Programming, Vol. 2: Seminumerical Algorithms*, 2nd ed. Addison-Wesley, Section 4.3.
 - GNU Multiple Precision Arithmetic Library. https://gmplib.org/
+---
+
+<div style="display:flex; justify-content:space-between; padding:1em 0;">
+<div><strong>← 上一章</strong><br><a href="ch16_高级字符串_Text.html">第16章 高级字符串 Text</a></div>
+<div><strong><a href="index.html">📖 返回目录</a></strong></div>
+<div style="text-align:right"><strong>下一章 →</strong><br><a href="ch18_任意精度算术_MP.html">第18章 任意精度 MP</a></div>
+</div>
